@@ -1,0 +1,12 @@
+.about {
+  height: 70vh;
+  text-align: center;
+  margin: 70px;
+  font-family: "Maitree";
+}
+
+img {
+  width: 250px;
+  height: 300px;
+  object-fit: cover;
+}
